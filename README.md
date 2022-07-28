@@ -16,9 +16,21 @@ As it is a one-shot method withou refinement, it is extremely fast (50 FPS on no
 </p>
 
 
-## Neptune Dataset
-Neptune Dataset is available at [this link](https://drive.google.com/drive/u/0/folders/18BjEKYf5T2HYWi5k_rpXSmLtY92_md2g).  
+## RegiSwim Dataset
+RegiSwim Dataset is available at [this link](https://drive.google.com/drive/u/0/folders/18BjEKYf5T2HYWi5k_rpXSmLtY92_md2g).
+
+
 
 This dataset is a new benchmark for sport fields registration. It focuses on swimming pools, as these environments contain many interesting and unique properties to increase the challenge in image registration (levels of zoom, light saturation, changing background...).
 
 ![The Neptune Registration Dataset](/images/dataset.png)
+
+ If you use it, please cite :
+ 
+ @article{superglue,
+  author    = {Nicolas Jacquelin and Romain Vuillemot and Stefan Duffner},
+  title     = {Efficient One-Shot Sports Field Image Registration with Arbitrary Keypoint Segmentation},
+  booktitle = {IEEE International Conference on Image Processing},
+  year      = {2022},
+  url       = {⟨hal-03738153⟩}
+}
