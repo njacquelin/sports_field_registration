@@ -27,10 +27,10 @@ This dataset is a new benchmark for sport fields registration. It focuses on swi
 
  If you use it, please cite :
  
- @article{superglue,
-  author    = {Nicolas Jacquelin and Romain Vuillemot and Stefan Duffner},
-  title     = {Efficient One-Shot Sports Field Image Registration with Arbitrary Keypoint Segmentation},
-  booktitle = {IEEE International Conference on Image Processing},
-  year      = {2022},
-  url       = {⟨hal-03738153⟩}
-}
+       @inproceedings{icip2022registration,
+        author    = {Nicolas Jacquelin and Romain Vuillemot and Stefan Duffner},
+        title     = {Efficient One-Shot Sports Field Image Registration with Arbitrary Keypoint Segmentation},
+        booktitle = {IEEE International Conference on Image Processing},
+        year      = {2022},
+        url       = {⟨hal-03738153⟩}
+      }
