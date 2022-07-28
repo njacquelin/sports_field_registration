@@ -27,10 +27,16 @@ This dataset is a new benchmark for sport fields registration. It focuses on swi
 
  If you use it, please cite :
  
-       @inproceedings{icip2022registration,
-        author    = {Nicolas Jacquelin and Romain Vuillemot and Stefan Duffner},
-        title     = {Efficient One-Shot Sports Field Image Registration with Arbitrary Keypoint Segmentation},
-        booktitle = {IEEE International Conference on Image Processing},
-        year      = {2022},
-        url       = {⟨hal-03738153⟩}
+       @inproceedings{jacquelin:hal-03738153,
+        TITLE = {{EFFICIENT ONE-SHOT SPORTS FIELD IMAGE REGISTRATION WITH ARBITRARY KEYPOINT SEGMENTATION}},
+        AUTHOR = {Jacquelin, Nicolas and Duffner, Stefan and Vuillemot, Romain},
+        URL = {https://hal.archives-ouvertes.fr/hal-03738153},
+        BOOKTITLE = {{IEEE International Conference on Image Processing}},
+        ADDRESS = {Bordeaux, France},
+        YEAR = {2022},
+        MONTH = Oct,
+        KEYWORDS = {registration ; real-time ; sports ; dataset},
+        PDF = {https://hal.archives-ouvertes.fr/hal-03738153/file/Efficient%20One-Shot%20Sports%20Field%20Image%20Registration%20with%20Arbitrary%20Keypoint%20Segmentation.pdf},
+        HAL_ID = {hal-03738153},
+        HAL_VERSION = {v1},
       }
