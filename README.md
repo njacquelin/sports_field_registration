@@ -25,7 +25,7 @@ This dataset is a new benchmark for sport fields registration. It focuses on swi
 
 ![The Neptune Registration Dataset](/images/dataset.png)
 
- If you use it, please cite :
+ If you use it, please cite [this paper](https://hal.science/hal-03738153):
  
        @inproceedings{jacquelin:hal-03738153,
         TITLE = {{EFFICIENT ONE-SHOT SPORTS FIELD IMAGE REGISTRATION WITH ARBITRARY KEYPOINT SEGMENTATION}},
